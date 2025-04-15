@@ -1,4 +1,4 @@
-﻿# Data Visualization Showcase
+﻿# Big Five/NEO PI-R Data Visualization Showcase
 
 Welcome to my data visualization showcase for Big Five/NEO PI-R personality traits, originally designed to show users their personality results after taking a personality test.
 
