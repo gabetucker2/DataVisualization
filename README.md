@@ -4,7 +4,7 @@ Welcome to my data visualization showcase for Big Five/NEO PI-R personality trai
 
 This was hardcoded from the ground up using only vanilla browser functionality (i.e., no libraries were used).
 
-Click the thumbnail below to see a quick preview of interacting with the visualization on YouTube:
+## Click below:
 
 [![Sample Video](https://img.youtube.com/vi/xWzYo05ajMA/maxresdefault.jpg)](https://www.youtube.com/watch?v=xWzYo05ajMA)
 
